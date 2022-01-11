@@ -13,7 +13,7 @@
 
 ## 🚀 Como utilizar o projeto
 1 - Clonar o projeto pra maquina: <br>
-git clone https://github.com/automacaotruechange/Calculadora-Fatorial <br>
+git clone https://github.com/brunosreis03/Calculadora-Fatorial <br>
 2 - Acessar o Visual Studio Code <br>
 3 - Selecionar o workspace(pode ser a pasta onde foi clonado o repositorio) <br>
 4 - No VS Code ir em File > Open Folder > e selecionar a pasta onde esta todo o projeto <br>
